@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on PeachSwap InitPool</title>
+    <link>/initpool/about/</link>
+    <description>Recent content in Abouts on PeachSwap InitPool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2020 15:34:15 +0800</lastBuildDate>
+    
+        <atom:link href="/initpool/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何参与PeachSwap启动池</title>
+      <link>/initpool/about/how-to/</link>
+      <pubDate>Tue, 08 Sep 2020 15:34:15 +0800</pubDate>
+      
+      <guid>/initpool/about/how-to/</guid>
+      <description>如何参与PeachSwap启动池 兑换比例 1 ETH = 3000 TAO 10 ETH 额外奖励 5% 100 ETH 额外奖励 10% 收币地址 0x110a7BF7A9A304E2A1409cDe2d267436FeDf51b2 </description>
+      
+    </item>
+    
+  </channel>
+</rss>
